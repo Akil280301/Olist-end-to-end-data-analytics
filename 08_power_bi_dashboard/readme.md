@@ -23,7 +23,7 @@
 Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externally.
 
  **Download the Power BI file:**  
-(Link to be added)
+https://drive.google.com/file/d/1-EGTtU_CZHfMbz80VmjdSml9SK9h26NS/view?usp=sharing
 
 -> Open the file using Power BI Desktop to explore all interactions and filters.
  
